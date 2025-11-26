@@ -1,0 +1,7 @@
+@import url(https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Nata+Sans:wght@100..900&display=swap);
+.uIWAy609{display:flex;justify-content:center;width:100%;height:100svh;background:-webkit-linear-gradient(270deg, var(--grey20), var(--grey10), var(--white));background:var(--grey20);font-weight:600;color:var(--cyan);font-size:20px;font-family:"Nata Sans",sans-serif;font-family:"Merriweather",serif}.lveUBM1O{width:100%;display:flex;justify-content:center}
+*{padding:0px;margin:0px;border:none;list-style:none}body.noscroll{overflow:hidden}html{scrollbar-gutter:stable}*,*::before,*::after{box-sizing:border-box}a,a:link,a:visited{text-decoration:none}a:hover{text-decoration:none}aside,nav,footer,header,section,main{display:block}h1,h2,h3,h4,h5,h6,p{font-size:inherit;font-weight:inherit}img,svg{max-width:100%;height:auto}input:focus,input:active,button:focus,button:active{outline:none}a{display:flex;width:fit-content}
+
+:root{--white: #FFF;--grey10: #595E63;--grey20: #343332;--grey30: #67665f;--light-grey: #7E8993;--blue10: #233C55;--blue20: #001429;--cyan: #CDF8FF;--pink: #ffb6ed}
+
+/*# sourceMappingURL=main.feea1b14.css.map*/
